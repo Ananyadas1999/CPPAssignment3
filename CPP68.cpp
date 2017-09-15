@@ -8,7 +8,7 @@ int main()
     long int dec,rem,quo;
     int i=1,j,temp;
     char hexa[100];
-    COUT<<"PROGRAM TO CONVERT DECIMAL TO HEXADECIMAL";
+    cout<<"PROGRAM TO CONVERT DECIMAL TO HEXADECIMAL";
     cout<<"\n \n \nEnter any decimal number: ";
     cin>>dec;
     quo = dec;
