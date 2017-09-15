@@ -13,6 +13,6 @@ int main()
     sum+=i;
     i++;
   }
-  cout<<"\n \nThe sum of all numbers from 1 to 100 are: "<<sum;
+  cout<<"\n \nThe sum of all numbers from 1 to n are: "<<sum;
   return 0;
 }
