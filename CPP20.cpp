@@ -7,7 +7,7 @@ int main()
 {
   float bas=0,gross=0,hra=0,da=0;
   cout<<"Program to input basic salary of an employee and calculate its Gross salary";
-  cout<<"\n \nEnter the marks in Physics(out of 100): ";
+  cout<<"\n \nEnter the basic salary: ";
   cin>>bas;
   if(bas<=10000)
   {
